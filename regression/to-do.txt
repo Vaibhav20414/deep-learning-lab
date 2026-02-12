@@ -1,0 +1,12 @@
+1. Build a linear regression model just using numpy
+2. Build a linear regression model using Torch, use no_grad and loss.backward()
+3. Implement the same using GPU
+4. PyTorch Implementation using custom class with GD 
+5. Using Optimizer methods to 1. SGD 2. updation 3. Resetting
+6. nn module, 1. calling the super class constructor 2. nn.Parameters, 3. Requirement of forward 4.nn.MSELoss(), 5 Creating dunder methods
+7. Dataset and Dataloader class
+8. Full regression model using Dataloader and Dataset class
+   8.1 splitting the data
+   8.2 getting the iterator
+   8.3 using an enumerator 
+   8.4 using dunder methods for avg loss computation
